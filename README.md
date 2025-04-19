@@ -14,8 +14,7 @@ Eager to explore new advancements in AI, I am currently delving into Deep Learni
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi1503)
 ![Github stats1](https://github-readme-stats.vercel.app/api?username=Mahi1503)
 
-- 🔭 I’m currently working on building my portfolio
-- 🌱 I’m currently learning DSMP2.0
+- 🌱 I’m currently learning GenAI and Agentic AI
 - 👯 I’m looking to collaborate on GenAI 
 - 🤔 I’m looking for help with interview references
 - 💬 Ask me about: Machine Learning, Python, Web development
